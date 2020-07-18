@@ -26,4 +26,4 @@ while(count<=1000000):
 			count=count+1
 
 areaPunjab=(count_Punjab/count_India)*areaIndia
-print(Estimated Area of Punjab in sq km is ",areaPunjab)
+print("Estimated Area of Punjab in sq km is ",areaPunjab)
